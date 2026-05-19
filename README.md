@@ -6,6 +6,9 @@ Predict the outcomes of nba draft prospects based on measurables and statstical 
 
 Will use basketball reference to scrape measurables.
 
+# AI Usage:
+- Used AI to generate the web scrapers
+
 # Shortcomings:
 - Doesn't account for change of game over time
 - Doesn't account for late "bloomers"
